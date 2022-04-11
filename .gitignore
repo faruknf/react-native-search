@@ -1,0 +1,6 @@
+.DS_STORE
+server/v1/src/.env
+server/v1/src/.env
+server/v1/src/services/elastic/http_ca.crt
+server/v1/src/node_modules
+client/node_modules
